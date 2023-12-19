@@ -53,8 +53,7 @@
 
 
 ## Output:
-![image](https://github.com/Kavin1311/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145695724/7f438dbd-f1f1-4ddc-ab75-746d22c68688)
-
+![image](https://github.com/Kavin1311/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145695724/445a9801-545d-4c57-b11e-302ce688ae9c)
 
 ### Name:Kavinajai.T
 ### Register Number: 23013356
